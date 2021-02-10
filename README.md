@@ -16,3 +16,6 @@
 
 ## strategy-pattern
 > contains an example of the pattern with the test
+
+## Link to GitHub
+> https://github.com/toonwwk/esd-homework2
